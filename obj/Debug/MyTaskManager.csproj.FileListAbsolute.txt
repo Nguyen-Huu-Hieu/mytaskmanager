@@ -1,0 +1,23 @@
+C:\Users\ADMIN\documents\visual studio 2013\Projects\TaskManager\MyTaskManager\bin\Debug\MyTaskManager.exe.config
+C:\Users\ADMIN\documents\visual studio 2013\Projects\TaskManager\MyTaskManager\bin\Debug\MyTaskManager.exe
+C:\Users\ADMIN\documents\visual studio 2013\Projects\TaskManager\MyTaskManager\bin\Debug\MyTaskManager.pdb
+C:\Users\ADMIN\documents\visual studio 2013\Projects\TaskManager\MyTaskManager\obj\Debug\MyTaskManager.csprojResolveAssemblyReference.cache
+C:\Users\ADMIN\documents\visual studio 2013\Projects\TaskManager\MyTaskManager\obj\Debug\MyTaskManager.Properties.Resources.resources
+C:\Users\ADMIN\documents\visual studio 2013\Projects\TaskManager\MyTaskManager\obj\Debug\MyTaskManager.csproj.GenerateResource.Cache
+C:\Users\ADMIN\documents\visual studio 2013\Projects\TaskManager\MyTaskManager\obj\Debug\MyTaskManager.exe
+C:\Users\ADMIN\documents\visual studio 2013\Projects\TaskManager\MyTaskManager\obj\Debug\MyTaskManager.pdb
+C:\Users\ADMIN\documents\visual studio 2013\Projects\TaskManager\MyTaskManager\obj\Debug\MyTaskManager.frmRunNewTask.resources
+C:\Users\ADMIN\documents\visual studio 2013\Projects\TaskManager\MyTaskManager\obj\Debug\MyTaskManager.frmTaskManager.resources
+C:\Users\Huu-Hieu\Downloads\MyTaskManager\MyTaskManager\bin\Debug\MyTaskManager.exe.config
+C:\Users\Huu-Hieu\Downloads\MyTaskManager\MyTaskManager\obj\Debug\MyTaskManager.exe
+C:\Users\Huu-Hieu\Downloads\MyTaskManager\MyTaskManager\obj\Debug\MyTaskManager.pdb
+C:\Users\Huu-Hieu\Downloads\MyTaskManager\MyTaskManager\bin\Debug\MyTaskManager.exe
+C:\Users\Huu-Hieu\Downloads\MyTaskManager\MyTaskManager\bin\Debug\MyTaskManager.pdb
+C:\Users\Huu-Hieu\Downloads\MyTaskManager\MyTaskManager\obj\Debug\MyTaskManager.csprojResolveAssemblyReference.cache
+C:\Users\Huu-Hieu\Downloads\MyTaskManager\MyTaskManager\obj\Debug\MyTaskManager.frmTaskManager.resources
+C:\Users\Huu-Hieu\Downloads\MyTaskManager\MyTaskManager\obj\Debug\MyTaskManager.frmRunNewTask.resources
+C:\Users\Huu-Hieu\Downloads\MyTaskManager\MyTaskManager\obj\Debug\MyTaskManager.Properties.Resources.resources
+C:\Users\Huu-Hieu\Downloads\MyTaskManager\MyTaskManager\obj\Debug\MyTaskManager.csproj.GenerateResource.Cache
+C:\Users\Huu-Hieu\Downloads\MyTaskManager\B2-NV Công-NH Hiếu\MyTaskManager\bin\Debug\MyTaskManager.exe.config
+C:\Users\Huu-Hieu\Downloads\MyTaskManager\B2-NV Công-NH Hiếu\MyTaskManager\obj\Debug\MyTaskManager.exe
+C:\Users\Huu-Hieu\Downloads\MyTaskManager\B2-NV Công-NH Hiếu\MyTaskManager\obj\Debug\MyTaskManager.pdb
